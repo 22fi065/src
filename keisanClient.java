@@ -28,7 +28,6 @@ public class keisanClient {
                         oos.close();
                         socket.close();
                 } catch (BindException e) {
-                        System.out.println("殺しますよ");
                 } catch (Exception e) {
 
                 }

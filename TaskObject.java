@@ -21,7 +21,6 @@ public class TaskObject implements ITask, Serializable {
                     sosuu = i;
 
                 } else {
-                    // System.out.println("i:" + i + ",a:" + a + "殺しますよ");
                     break;
                 }
 
